@@ -1,7 +1,7 @@
-<img src="final.png" alt="Alt text" title="Optional title">
+<img src="image/final.png" alt="Alt text" title="Optional title">
 
 
-<img src="image.png" alt="Alt text" title="Optional title">
+<img src="image/image.png" alt="Alt text" title="Optional title">
 
 
 
