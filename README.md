@@ -1,8 +1,8 @@
-![final look](./final.jpg "Optional title")
+![final look](./final.png "Optional title")
 
 
 
-![image look](./image.jpg "Optional title")
+![image look](./image.png "Optional title")
 
 
 
