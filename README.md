@@ -1,9 +1,7 @@
-![final look](./final.png "Optional title")
+<img src="final.png" alt="Alt text" title="Optional title">
 
 
-
-![image look](./image.png "Optional title")
-
+<img src="image.png" alt="Alt text" title="Optional title">
 
 
 
